@@ -1,0 +1,6 @@
+Link tutorial : https://youtu.be/Dk25lwdTKow?si=O-wNlc1mi1nyxUsl
+
+Hal-hal yang dipelajari :
+1. data cleaning di section "transform data"
+2. join dan data modelling
+3. 
