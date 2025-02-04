@@ -5,4 +5,6 @@ Hal-hal yang dipelajari :
 2. join dan data modelling (join untuk memakai lebih dari 1 dataset dengan kolom key yang sama, modelling untuk menjadikan visualisasi kita konsisten)
 3. membuat hierarcy (drill down) - (untuk membuat detail suatu data. contoh tahun 2024 di detailkan menjadi 12 bulan, masing masing bulan bisa di detailkan menjadi 30 hari +-)
 4. membuat folder untuk kolom (missal kolom 'math score', 'math tutor' ditaruh menjadi 1 folder biar rapi dan gampang di cari)
-5. 
+5. membuat DAX (Data Analyst Expression) measure (untuk membuat kolom perhitungan secara manual. Contoh = ada kolom Harga, dan kolom biaya pembuatan. Kita bisa bikin kolom baru 'keuntungan' dengan pakai measure baru (kolom Harga - kolom biaya pembuatan))
+6. membuat quick measure (mempercepat dalam membuat measure yang rumit)
+7. 
