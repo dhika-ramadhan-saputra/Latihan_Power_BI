@@ -7,4 +7,8 @@ Hal-hal yang dipelajari :
 4. membuat folder untuk kolom (missal kolom 'math score', 'math tutor' ditaruh menjadi 1 folder biar rapi dan gampang di cari)
 5. membuat DAX (Data Analyst Expression) measure (untuk membuat kolom perhitungan secara manual. Contoh = ada kolom Harga, dan kolom biaya pembuatan. Kita bisa bikin kolom baru 'keuntungan' dengan pakai measure baru (kolom Harga - kolom biaya pembuatan))
 6. membuat quick measure (mempercepat dalam membuat measure yang rumit)
-7. 
+7. Visualisasi :
+- Exclude = mengecualikan data dengan kategori tertentu (contoh : siswa yang tidak memiliki value di kolom ekstrakulikuler di exclude saat membuat visualisasi data ekstrakulikuler)
+- Data label = menyantumkan nilai di visualisasinya (biar gampang tau nilainya)
+- Themes = template warna visualisasi dari power BI
+- 
