@@ -11,4 +11,10 @@ Hal-hal yang dipelajari :
 - Exclude = mengecualikan data dengan kategori tertentu (contoh : siswa yang tidak memiliki value di kolom ekstrakulikuler di exclude saat membuat visualisasi data ekstrakulikuler)
 - Data label = menyantumkan nilai di visualisasinya (biar gampang tau nilainya)
 - Themes = template warna visualisasi dari power BI
+- Customize themes = buat tema sesuai yg di inginkan
+- Canvas background = buat ngasih background gambar maupun warna
+- insert section = buat kasih judul, gambar, tombol, dll
+- picture button = jadiin gambar sebagai button pake fitur action di format
+- format pointer = kopi paste format visualisasi ke visualisasi lain (contohnya kaya kopi paste setingan transparansi background)
+- Conditional formatting = menandai value mana yang masuk kriteria (contoh value lebih dari 10k diwarnai hijau, makin sedikit warnanya makin merah)
 - 
