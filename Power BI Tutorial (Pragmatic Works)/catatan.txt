@@ -17,4 +17,6 @@ Hal-hal yang dipelajari :
 - picture button = jadiin gambar sebagai button pake fitur action di format
 - format pointer = kopi paste format visualisasi ke visualisasi lain (contohnya kaya kopi paste setingan transparansi background)
 - Conditional formatting = menandai value mana yang masuk kriteria (contoh value lebih dari 10k diwarnai hijau, makin sedikit warnanya makin merah)
-- 
+- Jenis visualisasi = Jenis visualisasi bisa di tambah dengan cara 'get more' di bagian titik 3 di list visualisasi
+- Q&A Visualization = visualisasi dibuatin AI berdasarkan data kita, cek di list visualisasi yang disediain
+- tooltip page = buat costum tooltip di visual yang di inginkan 
